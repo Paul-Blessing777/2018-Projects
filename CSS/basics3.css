@@ -1,0 +1,37 @@
+/* 
+We Can use "ids" to target single elements
+We can use "Classes" to target groups of elements
+We Can then also use combos of selector tags
+tp target certain combos of elements
+*/
+
+.firstdiv{
+    color:blueviolet;
+}
+
+.seconddiv{
+    color:red;
+}
+
+#singledout{
+    color:green;
+    text-decoration: line-through;
+}
+
+/*
+*{
+    color:black;
+}
+*/ /*This affects everything (except ids) */
+
+h3 + ul{ /*Any unordered list next to a h3*/
+    border: 4px dotted purple;
+}
+
+li a{/*Any anchor tag within a list*/
+    color:peru;
+}
+
+li a[href="www.npr.org"]{/*A Specific anchor point*/
+    color: aquamarine;
+}

@@ -1,0 +1,19 @@
+/*This is a comment 
+selected tag{
+    property: value;
+}
+*/ /* Above it the general format for a css file */
+h1{
+    color:blue;
+}
+
+li{
+    color: rgba(255,102,204,1);
+} /* the a stands for alpha or level of transparency */
+h4{
+    color: rgb(204, 204, 255);
+}
+
+p{
+    color: #280137;
+}

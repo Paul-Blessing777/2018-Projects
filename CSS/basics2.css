@@ -1,0 +1,21 @@
+body{
+    background: url(https://i.redd.it/xfyjafy47kn21.png);
+    background-repeat: no-repeat;
+}
+
+div{
+    background-color: rgb(45, 146, 96);
+    font-style: oblique;
+    border-color: blue;
+    border-width: 5px;
+    border-style: dotted;
+}
+
+span{
+    background-color: blueviolet;
+    color: rgb(204, 9, 9);
+}
+
+p{
+    color:gold;
+}
